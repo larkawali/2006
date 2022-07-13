@@ -3,7 +3,7 @@
 
 rm -rf 2006
 
-git clone https://github.com/larkawali/2006
+# git clone https://github.com/larkawali/2006
 
 cd 2006
 
